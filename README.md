@@ -3,6 +3,9 @@ In QSAR and machine learning field, molecular descriptor calculators often disap
 To solve this, we have developed PyDescriptorC* (earlier known as PyDescriptor). It computes 112,194 molecular descriptors, including 15,150 chirality-based descriptors (~13.5%) for a molecule. 
 All descriptors are easy to interpret and understandable in terms of structural features. It is available from following link:
 https://sites.google.com/view/pydescriptorcstar/home
+and
+YouTube video link:
+https://www.youtube.com/watch?v=GFTZccUNNm8
 
 Comparative/Benchmark testing with other descriptor calculators:
 1. T.B. Kimber, S. Engelke, I.V. Tetko, E. Bruno, G. Godin, Synergy effect between convolutional neural networks and the multiplicity of SMILES for improvement of molecular prediction, arXiv preprint arXiv:1812.04439, (2018). 
