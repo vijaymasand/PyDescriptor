@@ -7,6 +7,10 @@ and
 YouTube video link:
 https://www.youtube.com/watch?v=GFTZccUNNm8
 
+In our recent work, it has been used to capture activity and chirality cliffs efficiently:
+Title: Machine learning and docking-based insights into descriptor, activity, and chirality cliffs of SYK inhibitors
+https://doi.org/10.1016/j.jmgm.2026.109515
+
 Comparative/Benchmark testing with other descriptor calculators:
 1. T.B. Kimber, S. Engelke, I.V. Tetko, E. Bruno, G. Godin, Synergy effect between convolutional neural networks and the multiplicity of SMILES for improvement of molecular prediction, arXiv preprint arXiv:1812.04439, (2018). 
 2. S. Sosnin, D. Karlov, I.V. Tetko, M.V. Fedorov, Comparative study of multitask toxicity modeling on a broad chemical space, Journal of chemical information and modeling, 59 (2018) 1062-1072. 
